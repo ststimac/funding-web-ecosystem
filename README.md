@@ -1,6 +1,6 @@
+# Funding the Web Ecosystem
 A repository to share resources & conversations around funding the web ecosystem.
 
-# Funding the Web Ecosystem
 
 ## Resources
 
