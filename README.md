@@ -5,7 +5,7 @@ A repository to share resources & conversations around funding the web ecosystem
 ## Resources
 
 ### Blog Posts & Discussions
-- [WEH 2024 Breakout Session Minutes](https://hackmd.io/d6N367PqTryUb3DaeFFj3g?both) - Minutes from the 2024 Web Engines Hackfest.
+- [WEH 2024 Breakout Session Minutes](https://github.com/Igalia/webengineshackfest/wiki/2024-Funding-the-Web-Ecosystem) - Minutes from the 2024 Web Engines Hackfest.
 - [How We Fund the Web Ecosystem](https://bkardell.com/blog/HowWeFund.html) - Blog post from Brian Kardell.
 
 ### Articles 
